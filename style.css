@@ -1,0 +1,26 @@
+*{
+    body{
+        background: url(image/background.jpg) ;
+        background-size: cover;
+    }
+    .box-img{
+        border-radius:50% ;
+        width: 225px;
+        height: 200px;
+    }
+    .box{
+        width: 450px;
+        padding: 40px;
+        text-align: center;
+        margin: auto;
+        margin-top: 5%;
+        color: rgb(255, 255, 255);
+        font-family: 'Century Gothic',sans-serif;
+    }
+    .box h1{
+        font-size: 40px;
+        letter-spacing: 3px;
+        margin-bottom: 25px;
+        font-family: 'Apple Chancery', cursive;
+    }
+}
